@@ -1,6 +1,6 @@
 ## Olá, sou o Leonardo 
 
-Um estudante de Desenvolvimento Full Stack no último semestre do curso. Estou empolgado em ingressar na indústria de tecnologia e buscar minha primeira oportunidade profissional como desenvolvedor.
+Recém formado em Desenvolvimento Full Stack . Estou empolgado em ingressar na indústria de tecnologia e buscar minha primeira oportunidade profissional como desenvolvedor.
 
 Durante minha jornada acadêmica, adquiri conhecimentos sólidos em desenvolvimento web front-end e back-end, além de habilidades em design de interfaces e bancos de dados. Estou constantemente buscando aprender e aprimorar minhas habilidades para me tornar um desenvolvedor mais completo e eficaz.
 
